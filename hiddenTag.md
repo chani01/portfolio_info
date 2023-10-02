@@ -8,6 +8,8 @@
  
 ## 개요
 히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
+![image](https://github.com/chani01/portfolio_info/assets/37279318/db7f7e32-010d-443f-b259-47076bc8f7f4)
+
 
 ## 기술 및 도구
 히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
