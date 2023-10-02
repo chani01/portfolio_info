@@ -25,6 +25,8 @@
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/0-515151?style=for-the-badge">
+
 
 ## ETC
 히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
