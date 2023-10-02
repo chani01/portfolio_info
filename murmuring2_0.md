@@ -22,9 +22,9 @@
 - 카메라 API를 활용한 자체 라이브러리 인식 구현
 - SNS 로그인 구현(중국 SNS 로그인 구현 - Tencent QQ, WeChat 등)
 - 중국 스토어 출시(바이두, 비보, 샤오미, 치후 360, 오포, 화웨이, 알리바바, 텐센트)
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg" width="50%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg" width="50%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag3.jpg" width="50%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="50%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="50%"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
