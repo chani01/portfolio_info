@@ -10,8 +10,10 @@
 히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
 
-<img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg" width = "50%" height = "50%">
-<img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg" width = "50%" height = "50%">
+<figure class="half">
+  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg" width = "50%" height = "50%" />
+  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg" width = "50%" height = "50%" />
+</figure>
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg)
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg)
