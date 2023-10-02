@@ -7,6 +7,7 @@
  
 ## 개요
 히든태그는 워터마크 기술을 이용한, 히든태그 고객사 솔루션
+
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
 
 ## 기술 및 도구
