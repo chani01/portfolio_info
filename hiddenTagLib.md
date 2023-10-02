@@ -4,7 +4,6 @@
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
   3. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
   4. [기여도](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
-  5. [ETC](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#etc)
  
 ## 개요
 히든태그는 워터마크 기술을 이용한, 히든태그 고객사 솔루션
@@ -31,6 +30,3 @@
 
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/0-515151?style=for-the-badge">
 
-
-## ETC
-2017 모바일 기술 대상 수상
