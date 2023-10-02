@@ -24,7 +24,7 @@
 - 중국 스토어 출시(바이두, 비보, 샤오미, 치후 360, 오포, 화웨이, 알리바바, 텐센트)
 
 <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom1.jpg" width="32%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom1.jpg" width="32%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom3.jpg" width="32%">
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="45%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="45%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="32%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe2.jpg" width="32%"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
