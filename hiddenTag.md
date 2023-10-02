@@ -24,7 +24,7 @@
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag3.jpg" width="50%"> </p>
 
 ## 기여도
-히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100%-515151?style=for-the-badge">
 
 ## ETC
 히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
