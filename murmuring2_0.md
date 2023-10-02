@@ -7,7 +7,8 @@
   5. [ETC](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#etc)
  
 ## 개요
-히든태그는 워터마크 기술을 이용한, 정품 인증 솔루션
+일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼
+
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
 
 ## 기술 및 도구
