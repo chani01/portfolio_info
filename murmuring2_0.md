@@ -9,7 +9,7 @@
 ## 개요
 일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr_info1.png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
