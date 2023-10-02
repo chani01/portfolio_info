@@ -11,6 +11,7 @@
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
 
 <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg" width = "50%" height = "50%">
+<img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg" width = "50%" height = "50%">
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg)
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg)
