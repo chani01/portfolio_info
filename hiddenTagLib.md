@@ -8,7 +8,7 @@
 ## 개요
 히든태그는 워터마크 기술을 이용한, 히든태그 고객사 솔루션
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag_info2.png)
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag_info2.png"></p>
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white">
