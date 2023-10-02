@@ -11,15 +11,15 @@
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg)
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg)
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag3.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag3.jpg)
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag4.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag4.jpg)
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag5.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag5.jpg)
 
 
 ## 기술 및 도구
