@@ -1,10 +1,10 @@
 # 머머링 2.0
 🗂목차
-  1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
-  2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
-  3. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
-  4. [기여도](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
-  5. [ETC](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#etc)
+  1. [개요](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B0%9C%EC%9A%94)<br>
+  2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
+  3. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
+  4. [기여도](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
+  5. [ETC](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#etc)
  
 ## 개요
 일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼
