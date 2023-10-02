@@ -22,6 +22,7 @@
 - 카메라 API를 활용한 자체 라이브러리 인식 구현
 - SNS 로그인 구현(중국 SNS 로그인 구현 - Tencent QQ, WeChat 등)
 - 중국 스토어 출시(바이두, 비보, 샤오미, 치후 360, 오포, 화웨이, 알리바바, 텐센트)
+
 <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom1.jpg" width="32%"><img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom1.jpg" width="32%"><img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom3.jpg" width="32%">
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="45%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="45%"> </p>
 
