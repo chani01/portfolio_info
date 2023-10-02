@@ -1,4 +1,4 @@
-# 히든테그
+# 히든태그
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white">
 
 ## 기능 구현
+- 히든태크 앱 개발/유지보수/배포 진행
 - 바이두 푸시 구현
 - 카메라 API를 활용한 자체 라이브러리 인식 구현
 - SNS 로그인 구현(중국 SNS 로그인 구현 - Tencent QQ, WeChat 등)
