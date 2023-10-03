@@ -18,15 +18,11 @@
 
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 ## 기능 구현
-- 머머링 서비스 개발/유지보수/배포 진행
-- 기존 서비스 신규 개발
-- 음성 녹음 시스템 개발
-- 음성 플레이 개발
-- 음성 푸시 서비스 개발
-- 인앱 캐쉬 개발
+- 머머링 라이브 서비스 개발
+- 머머링 채팅 서비스 개발
 
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr2.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr3.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr4.jpg" width="24%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr5.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr6.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr7.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr8.jpg" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live1.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live2.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live3.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live4.png" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live7.png" width="24%"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
