@@ -8,7 +8,7 @@
 ## 개요
 오디오 라이브 방송 플랫폼
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live_cover.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay_cover.png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -20,8 +20,8 @@
 - 머머링 라이브 서비스 개발
 - 머머링 채팅 서비스 개발
 
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live1.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live2.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live3.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live4.png" width="24%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.5/mmr_live7.png" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay1.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay2.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay3.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay4.png" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay7.png" width="24%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay8.png" width="24%"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
