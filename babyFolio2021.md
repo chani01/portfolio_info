@@ -4,11 +4,13 @@
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
   3. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
   4. [기여도](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
+  5. [ETC](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#etc)
+ 
  
 ## 개요
 아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/babyfolilo.2021/babyfolilo2021_cover.png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/babyfolilo2021/babyfolilo2021_cover.png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
