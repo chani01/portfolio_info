@@ -30,7 +30,7 @@
 - 이모티콘 서비스(쑥티콘) 출시
 
 <p align="center"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay7.png" width="24%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay8.png" width="24%"> </p>
+<p align="center"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge">
