@@ -27,7 +27,7 @@
 - 가족 구조 변경
 - 구독 서비스 삭제, 인앱 재화 출시
 - 연말 영상, 돌잔치 영상 출시
-- 쑥티콘 출시
+- 이모티콘 서비스(쑥티콘) 출시
 
 <p align="center"> </p>
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay7.png" width="24%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay8.png" width="24%"> </p>
