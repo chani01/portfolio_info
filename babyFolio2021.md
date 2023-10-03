@@ -38,4 +38,8 @@
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/65-515151?style=for-the-badge">
 
 ## ETC
-일일 가입자 수 270% 증가, MAU 98% 증가, 쑥티콘 오픈 후 한 달 기준 30만건 제작, 미디어 업로드 비율 소폭 증가, 영상 제작 비율 소폭 증가
+- 일일 가입자 수 270% 증가
+- MAU 98% 증가
+- 쑥티콘 오픈 후 한 달 기준 30만건 제작
+- 미디어 업로드 비율 소폭 증가
+- 영상 제작 비율 증가
