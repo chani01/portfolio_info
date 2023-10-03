@@ -6,7 +6,7 @@
   4. [기여도](https://github.com/chani01/portfolio_info/blob/main/murmuring3_0.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
  
 ## 개요
-오디오 라이브 방송 플랫폼
+아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay_cover.png)
 
