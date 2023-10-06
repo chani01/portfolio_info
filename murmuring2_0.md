@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 ## 기능 구현
 - 머머링 서비스 개발/유지보수/배포 진행
-- 기존 서비스 신규 개발
+- 머머링 1.5 서비스를 신규 개발
 - 음성 녹음 시스템 개발
 - 음성 플레이 개발
 - 음성 푸시 서비스 개발
