@@ -17,9 +17,9 @@
 
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 ## 기능 구현
-  > Kotiln, MVP 사용
-- 머머링 라이브 서비스 개발
-- 머머링 채팅 서비스 개발
+  > Kotiln, MVP, EXOPlayer 사용
+- 백그라운드 플레이 리스트 개발
+- 머머링 음성 릴레이 서비스 개발
 
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay1.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay2.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay3.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay4.png" width="24%"> </p>
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay5.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay6.png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay7.png" width="24%"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/3.0/mmr_relay8.png" width="24%"> </p>
