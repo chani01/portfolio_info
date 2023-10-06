@@ -34,7 +34,7 @@
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_4.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_5.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_6.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_7.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_8.jpg" width="33%"> </p>
 
 ## 기여도
-<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/85-515151?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/65-515151?style=for-the-badge">
 
