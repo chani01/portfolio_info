@@ -25,12 +25,12 @@
 
 ## 기능 구현
   > room db, 클린아키텍처, MVVM, DI, corutine 사용
-- 홈화면 개편 1차, 2차
+- 홈 화면 개편 1차, 2차
 - 영상 업로드 시간 확장
 - 키워드 검색 기능
-- 미디어 업로드 중복 체그 기능
-- 쑥쑥찰칵 굿즈 제작 기능
-- 인앱 마케팅 툴(쑥톡)
+- 미디어 업로드 중복 체크 기능
+- 쑥쑥 찰칵 굿즈 상품 제작 기능
+- 인 앱 마케팅 툴(쑥톡)
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_1.jpg" width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_2.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_3.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_4.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_5.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_6.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_7.jpg"  width="24%"> </p>
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_8.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_9.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_10.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_11.jpg"  width="24%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_12.jpg"  width="24%">  <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio_2022_13.jpg"  width="24%"> </p>
