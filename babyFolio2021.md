@@ -27,9 +27,9 @@
 > 클린아키텍처, MVVM, DI, corutine 사용
 - 아기 탄생 영상
 - 가족 구조 변경
-- 구독 서비스 삭제, 인앱 재화 출시
+- 구독 서비스 삭제, 인 앱 재화 출시
 - 연말 영상, 돌잔치 영상 출시
-- 이모티콘 서비스(쑥티콘) 출시
+- 이모티콘 서비스(쑥 티콘) 출시
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="33%"></p>
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_4.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_5.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_6.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_7.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_8.jpg" width="33%"> </p>
