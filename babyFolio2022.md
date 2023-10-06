@@ -40,8 +40,8 @@
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/65-515151?style=for-the-badge">
 
 ## ETC
-- 일일 가입자 수 270% 증가
-- MAU 98% 증가
-- 쑥티콘 오픈 후 한 달 기준 30만건 제작
-- 미디어 업로드 비율 증가
-- 영상 제작 비율 증가
+- DAU 증가
+- 하루 미디어 업로드 수 20만 건 달성
+- NPS 90점 달성, wau 소폭 증가
+- 매출 증가
+- 마케팅팀 업무 효율 증가
