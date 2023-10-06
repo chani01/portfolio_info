@@ -30,7 +30,7 @@
 - 연말 영상, 돌잔치 영상 출시
 - 이모티콘 서비스(쑥티콘) 출시
 
-<p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="33%"></p>
+<p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="19%"></p>
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="19%"> </p>
 
 ## 기여도
