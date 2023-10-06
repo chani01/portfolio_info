@@ -30,8 +30,8 @@
 - 연말 영상, 돌잔치 영상 출시
 - 이모티콘 서비스(쑥티콘) 출시
 
-<p align="center"> </p>
-<p align="center"> </p>
+<p align="center"><img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"> <img src="https://img.shields.io/badge/70-515151?style=for-the-badge"><img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"> <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"></p>
+<p align="center"><img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"> <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"> <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"> <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge"> </p>
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge">
