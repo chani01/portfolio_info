@@ -24,11 +24,12 @@
 
 
 ## 기능 구현
-- 아기 탄생 영상
-- 가족 구조 변경
-- 구독 서비스 삭제, 인앱 재화 출시
-- 연말 영상, 돌잔치 영상 출시
-- 이모티콘 서비스(쑥티콘) 출시
+- 홈화면 개편 1차 2차
+- 영상 1분 업로드 확장
+- 키워드 검색 기능
+- 미디어 업로드 중복 체그 기능
+- 쑥쑥찰칵 굿즈 제작 기능
+- 인앱 마케팅 툴(쑥톡)
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="33%"></p>
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_4.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_5.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_6.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_7.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_8.jpg" width="33%"> </p>
