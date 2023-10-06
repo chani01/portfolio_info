@@ -28,10 +28,10 @@
 - 구독 출시
 - 홈 화면 개편 3차, 4차
 - 출산일 등록
-- 굿즈 추가(사진책)
+- 쑥쑥찰칵 굿즈 상품 추가(사진 책)
 - 공개일기 출시
 - 챌린지 출시
-- 무료 포인트 지급소
+- 무료 포인트 지급 기능 출시
 - 프리미엄 영상 출시
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2023/babyfolio_2023_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2023/babyfolio_2023_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2023/babyfolio_2023_3.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2023/babyfolio_2023_4.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2023/babyfolio_2023_5.jpg"  width="33%"></p>
