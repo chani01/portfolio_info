@@ -42,8 +42,6 @@
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/60-515151?style=for-the-badge">
 
 ## ETC
-- DAU 증가
-- 하루 미디어 업로드 수 20만 건 달성
-- NPS 90점 달성, wau 소폭 증가
 - 매출 증가
-- 마케팅팀 업무 효율 증가
+- 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함)
+- 가족당 식구 증가(평균 4명 -> 6명)
