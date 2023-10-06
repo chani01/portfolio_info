@@ -30,7 +30,7 @@
 - 굿즈 추가(사진책)
 - 공개일기 출시
 - 챌린지 출시
-- 무료 포인트 지급소,
+- 무료 포인트 지급소
 - 프리미엄 영상 출시
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="33%"></p>
