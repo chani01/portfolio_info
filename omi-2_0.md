@@ -22,7 +22,7 @@
 - 검사, 측정 프로세스 추가
 - 운동 프로세스 리뉴얼
 - 기록 프로세스 리뉴얼
-https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png
+
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(2).png" width="24%"> </p>
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(3).png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(4).png" width="24%">
 
