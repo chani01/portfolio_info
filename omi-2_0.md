@@ -18,12 +18,10 @@
 
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 ## 기능 구현
-- 머머링 서비스 개발/유지보수/배포 진행
-- 기존 머머링 1.5 서비스 재개발
-- 음성 녹음 시스템 개발
-- 음성 플레이 개발
-- 음성 푸시 서비스 개발
-- 인 앱 캐시 개발
+- 재활 프로그램 추가
+- 검사, 측정 프로세스 추가
+- 운동 프로세스 리뉴얼
+- 기록 프로세스 리뉴얼
 
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr2.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr3.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr4.jpg" width="24%"> </p>
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr5.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr6.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr7.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr8.jpg" width="24%"> </p>
