@@ -23,8 +23,8 @@
 - 운동 프로세스 리뉴얼
 - 기록 프로세스 리뉴얼
 
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png" width="49%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(3).png" width="49%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(2).png" width="49%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(4).png" width="49%">
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png" width="49%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(2).png" width="49%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(3).png" width="49%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(4).png" width="49%">
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/25-515151?style=for-the-badge">
