@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/25-515151?style=for-the-badge">
 
 ## ETC
-음성 파일 확장자 변경, 파일 크기 감소 (30%~50%), 서버 사용료 감소
+사용자 소폭 상승
 
 
 
