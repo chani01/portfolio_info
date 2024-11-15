@@ -8,7 +8,7 @@
  
  
 ## 개요
-아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
+수술 후 환자를 위한 재활 프로그램
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(21).png)
 
