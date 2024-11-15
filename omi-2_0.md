@@ -7,7 +7,7 @@
   5. [ETC](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#etc)
  
 ## 개요
-일상의 순간순간 발생하는 크고작은 감정들을 목소리를 통해 공유하고 소통하는 익명의 감정기반 음성공유 플랫폼
+수술 후 환자를 위한 재활 프로그램
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/2_0cover.png)
 
