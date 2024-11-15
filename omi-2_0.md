@@ -22,15 +22,12 @@
 - 검사, 측정 프로세스 추가
 - 운동 프로세스 리뉴얼
 - 기록 프로세스 리뉴얼
-
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr2.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr3.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr4.jpg" width="24%"> </p>
-<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr5.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr6.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr7.jpg" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr8.jpg" width="24%"> </p>
+https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(1).png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(2).png" width="24%"> </p>
+<p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(3).png" width="24%">  <img src = "https://github.com/chani01/portfolio_info/blob/main/images/meli/meli20(4).png" width="24%">
 
 ## 기여도
-<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/50-515151?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/25-515151?style=for-the-badge">
 
 ## ETC
 음성 파일 확장자 변경, 파일 크기 감소 (30%~50%), 서버 사용료 감소
