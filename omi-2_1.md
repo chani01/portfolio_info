@@ -28,7 +28,7 @@
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli21.png"></p>
 
 ## 기여도
-<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/75-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/70-515151?style=for-the-badge">
 
 ## ETC
 - 올림픽 지원으로 인해 인지도 소폭 증가
