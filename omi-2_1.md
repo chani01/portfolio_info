@@ -21,11 +21,9 @@
 
 ## 기능 구현
 > 클린아키텍처, MVVM, DI, corutine 사용
-- 아기 탄생 영상
-- 가족 구조 변경
-- 구독 서비스 삭제, 인 앱 재화 출시
-- 연말 영상, 돌잔치 영상 출시
-- 이모티콘 서비스(쑥 티콘) 출시
+- 수술, 시술 후 재활에 도움되는 프로그램(운동), 우울검사, 불안검사 컨텐츠 출시
+- 강원 2024 동계청소년올림픽대회 대한민국 컬링 대표팀 건강관리 챌린지 출시
+- 재활 운동 사용자 챌린지 출시
 
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli21.png"></p>
 
@@ -33,8 +31,4 @@
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/75-515151?style=for-the-badge">
 
 ## ETC
-- 일일 가입자 수 270% 증가
-- MAU 98% 증가
-- 이모티콘 서비스(쑥 티콘) 공개 후 한 달 기준 30만 건 제작
-- 미디어 업로드 비율 증가
-- 영상 제작 비율 증가
+- 올림픽 지원으로 인해 인지도 소폭 증가
