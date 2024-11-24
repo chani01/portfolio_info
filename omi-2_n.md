@@ -27,8 +27,7 @@
 - 연말 영상, 돌잔치 영상 출시
 - 이모티콘 서비스(쑥 티콘) 출시
 
-<p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg"  width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg"  width="33%"></p>
-<p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_4.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_5.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_6.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_7.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_8.jpg" width="33%"> </p>
+<img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="100%">
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/85-515151?style=for-the-badge">
