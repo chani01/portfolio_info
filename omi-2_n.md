@@ -27,7 +27,7 @@
 - 연말 영상, 돌잔치 영상 출시
 - 이모티콘 서비스(쑥 티콘) 출시
 
-<img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="100%">
+<img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/85-515151?style=for-the-badge">
