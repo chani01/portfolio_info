@@ -2,6 +2,7 @@
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
+  3. [사용 스킬](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
   3. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
   4. [기여도](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
   5. [ETC](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#etc)
