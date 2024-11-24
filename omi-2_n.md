@@ -8,7 +8,7 @@
  
  
 ## 개요
-아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
+일상 건강은 맬리에서 메일 이롭게, 맬리<br>인천 남동구 치매안심센터와 파트너십을 통해 두뇌운동 치매예방교실을 운영
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyFolio2021_cover.jpg)
 
