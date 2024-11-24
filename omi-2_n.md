@@ -26,11 +26,14 @@
 > 클린아키텍처, MVVM, DI, corutine graphql, jetpack compose, roomDB
 
 ## 기능 구현
-- 아기 탄생 영상
-- 가족 구조 변경
-- 구독 서비스 삭제, 인 앱 재화 출시
-- 연말 영상, 돌잔치 영상 출시
-- 이모티콘 서비스(쑥 티콘) 출시
+- 남동구 보건소 컨텐츠 개발
+- 음성 녹음 및 데시벨 측정 개발
+- 사진 촬영 및 동영상 촬영 개발
+- 사진 스티커 기능 개발
+- 사진 s3 업로드 기능 개발
+- 홈화면 개편
+- 만보기 기능 개발
+- 성능 최적화
 
 <img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
 
