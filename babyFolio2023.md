@@ -27,7 +27,6 @@
 > 클린아키텍처, MVVM, DI, corutine, jetpack compose, roomDB
 
 ## 기능 구현
-  > compose 사용
 - 구독 출시
 - 홈 화면 개편 3차, 4차
 - 출산일 등록
