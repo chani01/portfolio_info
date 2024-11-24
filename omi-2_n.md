@@ -30,9 +30,9 @@
 <img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
 
 ## 기여도
-<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/85-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/10-515151?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/65-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/55-515151?style=for-the-badge">
 
 ## ETC
 - 일일 가입자 수 270% 증가
