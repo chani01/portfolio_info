@@ -35,9 +35,5 @@
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/10-515151?style=for-the-badge">
 
 ## ETC
-- 일일 가입자 수 270% 증가
-- MAU 98% 증가
-- 이모티콘 서비스(쑥 티콘) 공개 후 한 달 기준 30만 건 제작
-- 미디어 업로드 비율 증가
-- 영상 제작 비율 증가
-
+- 인천 남동구 보건소 협업(치매 예방 교실)
+- 매인사업 확장
