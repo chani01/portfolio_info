@@ -1,4 +1,4 @@
-# 맬리 2.2 - 2.7
+# 맬리 2.2 - 3.0
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/omi-2_n.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/omi-2_n.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
