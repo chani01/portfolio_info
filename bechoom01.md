@@ -16,7 +16,7 @@
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 
-<img src="https://img.shields.io/badge/ide-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/ide-%23121011?style=for-the-badge">![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <img src="https://img.shields.io/badge/database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 
