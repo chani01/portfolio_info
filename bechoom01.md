@@ -11,7 +11,7 @@
 ## 개요
 꿈을 통해 스스로를 이해하고 정신적 성장을 이끄는 여정<br>꿈은 우리의 무의식을 비추는 거울입니다. 사람들이 꿈 분석을 통해 자기 자신을 더 깊이 이해하고 더욱 더 나은 나를 만들어 갈 수 있도록 돕습니다.
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(31).png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/bechoom/bechoom001.png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
