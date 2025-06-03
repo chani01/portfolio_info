@@ -23,17 +23,11 @@
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 
 ## 사용 스킬
-> 클린아키텍처, MVVM, DI, corutine graphql, jetpack compose, roomDB
+> 클린아키텍처, MVVM, DI, corutine, graphql, jetpack compose, roomDB
 
 ## 기능 구현
-- 남동구 보건소 컨텐츠 개발
-- 음성 녹음 및 데시벨 측정 개발
-- 사진 촬영 및 동영상 촬영 개발
-- 사진 스티커 기능 개발
-- 사진 s3 업로드 기능 개발
-- 홈화면 개편
-- 만보기 기능 개발
-- 성능 최적화
+- 운동 프로세스 개편
+- CloudFront Signed Cookie Generator 보안 적용
 
 <img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
 
