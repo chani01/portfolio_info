@@ -1,15 +1,15 @@
 # 비춤 0.1
 🗂목차
-  1. [개요](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#%EA%B0%9C%EC%9A%94)<br>
-  2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
-  3. [사용 스킬](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#%EC%82%AC%EC%9A%A9-%EC%8A%A4%ED%82%AC)<br>
-  4. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
-  5. [기여도](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
-  6. [ETC](https://github.com/chani01/portfolio_info/blob/main/omi-3_1.md#etc)
+  1. [개요](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#%EA%B0%9C%EC%9A%94)<br>
+  2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
+  3. [사용 스킬](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#%EC%82%AC%EC%9A%A9-%EC%8A%A4%ED%82%AC)<br>
+  4. [기능 구현](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
+  5. [기여도](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
+  6. [ETC](https://github.com/chani01/portfolio_info/blob/main/bechoom01.md#etc)
  
  
 ## 개요
-일상 건강은 맬리에서 메일 이롭게, 맬리<br>인천 남동구 치매안심센터와 파트너십을 통해 두뇌운동 치매예방교실을 운영
+꿈을 통해 스스로를 이해하고 정신적 성장을 이끄는 여정<br>꿈은 우리의 무의식을 비추는 거울입니다. 사람들이 꿈 분석을 통해 자기 자신을 더 깊이 이해하고 더욱 더 나은 나를 만들어 갈 수 있도록 돕습니다.
 
 ![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(31).png)
 
