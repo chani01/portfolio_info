@@ -29,7 +29,7 @@
 - 운동 프로세스 개편
 - CloudFront Signed Cookie Generator 보안 적용
 
-<img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli31.png" width="100%">
+<img src="https://github.com/chani01/portfolio_info/blob/main/images/bechoom/bechoom001.png" width="100%">
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
