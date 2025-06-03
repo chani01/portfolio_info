@@ -11,7 +11,7 @@
 ## 개요
 일상 건강은 맬리에서 메일 이롭게, 맬리<br>인천 남동구 치매안심센터와 파트너십을 통해 두뇌운동 치매예방교실을 운영
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(30).png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(31).png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -29,7 +29,7 @@
 - 운동 프로세스 개편
 - CloudFront Signed Cookie Generator 보안 적용
 
-<img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
+<img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli31.png" width="100%">
 
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
