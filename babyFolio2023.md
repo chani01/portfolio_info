@@ -44,7 +44,7 @@
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/85-515151?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/60-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/40-515151?style=for-the-badge">
 
 ## ETC
 - 매출 증가
