@@ -34,7 +34,7 @@
 ## 기여도
 <img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/10-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/25-515151?style=for-the-badge">
 
 ## ETC
 - 인천 남동구 보건소 협업(치매 예방 교실)
