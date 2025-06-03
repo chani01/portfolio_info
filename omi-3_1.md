@@ -32,7 +32,7 @@
 <img src="https://github.com/chani01/portfolio_info/blob/main/images/meli/meli2n.png" width="100%">
 
 ## 기여도
-<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/55-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/dev-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/100-515151?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/10-515151?style=for-the-badge">
 
