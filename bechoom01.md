@@ -23,11 +23,12 @@
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 
 ## 사용 스킬
-> 클린아키텍처, MVVM, DI, corutine, graphql, jetpack compose, roomDB
+> 클린아키텍처, MVVM, DI, corutine, graphql, jetpack compose, roomDB, firebase Cloud Firestore, firebase App Distribution
 
 ## 기능 구현
-- 운동 프로세스 개편
-- CloudFront Signed Cookie Generator 보안 적용
+- 백그라운드 분석 추가
+- ai를 활용한 꿈 분석 기능 개발
+- 히스토리 리스트 기능 개발
 
 <img src="https://github.com/chani01/portfolio_info/blob/main/images/bechoom/bechoom001.png" width="100%">
 
@@ -37,7 +38,5 @@
 <img src="https://img.shields.io/badge/Planning-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/25-515151?style=for-the-badge">
 
 ## ETC
-- 인천 남동구 보건소 협업(치매 예방 교실)
-- 대한 체육회 프로토 타입
-
+- 0.0.1 출시
 
