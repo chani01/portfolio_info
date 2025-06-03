@@ -11,7 +11,7 @@
 ## 개요
 일상 건강은 맬리에서 메일 이롭게, 맬리<br>인천 남동구 치매안심센터와 파트너십을 통해 두뇌운동 치매예방교실을 운영
 
-![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(20).png)
+![image](https://github.com/chani01/portfolio_info/blob/main/images/meli/meli_cover(30).png)
 
 ## 기술 및 도구
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
