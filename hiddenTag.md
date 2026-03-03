@@ -34,6 +34,35 @@
 
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white">
 
+---
+
+## 🚀 핵심 기능 구현
+프로젝트 개발 전 과정을 **100% 전담**하여 자체 기술의 상용화를 주도했습니다.
+
+### 1. 자체 인식 라이브러리 고도화
+* **Camera API 최적화**: 히든태그 고유의 워터마킹 패턴을 정확하게 판별하기 위한 인식 알고리즘 구현 및 성능 개선
+
+### 2. 중국 시장 최적화 (Localization)
+* **현지 연동**: 구글 서비스 사용이 불가능한 환경을 고려하여 **Baidu Push** 및 중국 현지 SNS(WeChat, QQ 등) 로그인 연동
+* **8대 스토어 출시**: 바이두, 비보, 샤오미, 치후 360, 오포, 화웨이, 알리바바, 텐센트 등 현지 마켓 배포 및 유지보수 관리
+
+### 3. 앱 서비스 라이프사이클 관리
+* **전담 운영**: 히든태그 앱의 설계부터 개발, 유지보수, 글로벌 배포까지 전체 사이클 관리
+
+<p align="center">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag1.jpg" width="32%">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag2.jpg" width="32%">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag3.jpg" width="32%">
+</p>
+
+---
+
+## 📊 기여도 및 역할
+* **Development (100%)**: 안드로이드 및 iOS 앱 전체 개발 및 글로벌 배포 전담
+* **Planning (0%)**: 기술적 구현 및 글로벌 스토어 환경 대응에 집중
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
