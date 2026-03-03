@@ -10,6 +10,13 @@
 
 ---
 
+## 📝 개요
+히든태그는 고유의 디지털 워터마킹 기술을 이용하여 제품의 정품 여부를 판별하는 글로벌 인증 솔루션입니다. 전용 앱을 통해 특수 패턴을 인식하고 데이터베이스와 대조하여 소비자에게 신뢰를 제공합니다.
+
+![개요 이미지](https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/hiddenTag_info.png)
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
