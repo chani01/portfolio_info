@@ -46,7 +46,23 @@ B2B 솔루션 공급을 위해 글로벌 특화 도구를 활용했습니다.
 ### 3. 멀티 테넌시 대응 및 운영
 * **공통 모듈 관리**: 다수의 고객사 앱을 효율적으로 관리하기 위한 코드 모듈화 및 유지보수 효율 증대
 
+---
 
+## 📊 기여도 및 역할
+* **Development (100%)**: 안드로이드 및 iOS 클라이언트 전체 개발 및 글로벌 배포 전담
+* **Maintenance**: 고객사별 요구사항 분석 및 기능 업데이트 관리
+
+---
+  
+
+<p align="center"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom1.jpg" width="32%"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagHurom3.jpg" width="32%"> 
+</p>
+<p align="center"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe1.jpg" width="32%"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTagAboutMe2.jpg" width="32%"> 
+</p>
 
 <p align="center"> <img src = "https://github.com/chani01/portfolio_info/blob/main/images/hiddentag/HiddenTag_info2.png"></p>
 
