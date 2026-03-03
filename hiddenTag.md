@@ -1,4 +1,6 @@
-# 히든태그
+# 🛡 히든태그 (HiddenTag)
+> **디지털 워터마킹 기술 기반 글로벌 정품 인증 솔루션** > "전 세계 어디서든 가품으로부터 브랜드의 가치를 보호합니다."
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
