@@ -17,6 +17,14 @@
 
 ---
 
+## 📈 핵심 성과
+기술적 완성도를 바탕으로 국내외 시장에서 솔루션의 신뢰성을 입증했습니다.
+* **기술력 인증**: **2017 모바일 기술 대상** 수상으로 대외적인 기술력 입증
+* **글로벌 확장**: 바이두, 화웨이, 텐센트 등 **중국 8대 주요 앱 스토어** 성공적 런칭 및 운영
+* **현지 최적화**: 중국 내 특수 네트워크 환경(바이두 푸시 등)에 최적화된 안정적인 서비스 제공
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/hiddenTag.md#%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)<br>
