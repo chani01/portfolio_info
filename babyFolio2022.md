@@ -20,6 +20,30 @@
 
 ---
 
+## 📈 핵심 성과
+대규모 데이터 처리 역량과 서비스 품질 만족도를 수치로 증명했습니다.
+* **트래픽 신기록**: **하루 미디어 업로드 수 20만 건** 달성 및 안정적 서버 운영
+* **사용자 만족도**: 서비스 품질의 척도인 **NPS 90점** 달성 및 WAU(주간 활성 사용자) 지속 증가
+* **비즈니스 성장**: DAU 증가 및 굿즈 상품 출시를 통한 직접적인 **매출 증가** 견인
+* **운영 효율화**: 인앱 마케팅 툴(쑥톡) 개발로 마케팅팀 업무 효율성 극대화
+
+---
+
+## 🛠 기술 및 도구
+최신 안드로이드 개발 트렌드인 선언형 UI 프레임워크와 효율적인 데이터 관리 도구를 도입했습니다.
+
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/ide-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+
+<img src="https://img.shields.io/badge/Modern%20Android-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white">
+
+<img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase%20App%20Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/babyFolio2022.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2022.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
