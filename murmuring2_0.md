@@ -19,6 +19,25 @@
 
 ---
 
+## 📈 핵심 성과
+데이터 최적화 기술을 통해 서비스 운영 효율을 극대화했습니다.
+* **비용 절감**: 음성 파일 확장자 변경 및 최적화를 통해 **파일 크기 30%~50% 감소**
+* **인프라 효율**: 데이터 전송량 감소를 통한 **서버 사용료 대폭 절감**
+* **성공적 전환**: 기존 1.5 서비스의 안정적인 재개발 및 마이그레이션 완료
+
+---
+
+## 🛠 기술 및 도구
+안드로이드 최신 환경과 효율적인 협업 도구를 활용했습니다.
+
+<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/ide-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+
+<img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
