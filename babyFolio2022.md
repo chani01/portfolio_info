@@ -1,4 +1,25 @@
-# 쑥쑥찰칵 2022
+# 👶 쑥쑥찰칵 2022 (BabyFolio 2022)
+> **대규모 트래픽 안정화 및 서비스 고도화를 통한 사용자 경험 혁신**
+> "하루 20만 건의 미디어 업로드를 처리하며 온 가족의 소중한 순간을 지킵니다."
+
+---
+
+## 🗂 목차
+1. [개요](#-개요)
+2. [핵심 성과](#-핵심-성과)
+3. [기술 및 도구](#-기술-및-도구)
+4. [주요 구현 기능](#-주요-구현-기능)
+5. [기여도 및 역할](#-기여도-및-역할)
+
+---
+
+## 📝 개요
+2021년의 폭발적 성장에 이어, 유저 사용 패턴에 맞춘 홈 화면 전면 개편과 굿즈 제작 등 커머스 기능을 결합하여 서비스의 완성도를 높인 프로젝트입니다.
+
+![서비스 커버](https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2022/babyfolio2022_cover.png)
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/babyFolio2022.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2022.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
