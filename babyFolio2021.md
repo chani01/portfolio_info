@@ -20,6 +20,14 @@
 
 ---
 
+## 📈 핵심 성과
+기술적 고도화와 기능 출시를 통해 서비스의 비약적인 성장을 견인했습니다.
+* **폭발적 지표 성장**: 일일 가입자 수 **270% 증가** 및 **MAU 98% 상승** 달성
+* **콘텐츠 활성화**: AI 이모티콘 '쑥티콘' 출시 후 한 달 만에 **30만 건 제작** 기록
+* **유저 인게이지먼트**: 미디어 업로드 및 자동 영상 제작 비율의 유의미한 수치 증가
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
