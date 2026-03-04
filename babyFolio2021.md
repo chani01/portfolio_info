@@ -1,4 +1,25 @@
-# 쑥쑥찰칵 2021
+# 👶 쑥쑥찰칵 2021 (BabyFolio 2021)
+> **온 가족이 함께하는 우리 아이 성장 기록 플랫폼**
+> "아이가 받는 모든 사랑을 기억할 수 있도록, 데이터 기반의 감동을 설계합니다."
+
+---
+
+## 🗂 목차
+1. [개요](#-개요)
+2. [핵심 성과](#-핵심-성과)
+3. [기술 및 도구](#-기술-및-도구)
+4. [주요 구현 기능](#-주요-구현-기능)
+5. [기여도 및 역할](#-기여도-및-역할)
+
+---
+
+## 📝 개요
+쑥쑥찰칵은 아이의 성장 영상을 자동으로 제작하고 온 가족이 공유하는 플랫폼입니다. 2021년 한 해 동안 대대적인 서비스 확장과 비즈니스 모델 전환을 성공적으로 완수했습니다.
+
+![서비스 커버](https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyFolio2021_cover.jpg)
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
