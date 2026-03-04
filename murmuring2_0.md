@@ -1,4 +1,18 @@
-# 머머링 2.0
+# 🎙 머머링 2.0 (Murmuring 2.0)
+> **목소리로 소통하는 익명 기반 감정 공유 플랫폼**
+> "일상의 감정을 음성으로 기록하고 익명의 사용자들과 연결합니다."
+---
+
+## 🗂 목차
+1. [개요](#-개요)
+2. [핵심 성과](#-핵심-성과)
+3. [기술 및 도구](#-기술-및-도구)
+4. [주요 구현 기능](#-주요-구현-기능)
+5. [기여도 및 역할](#-기여도-및-역할)
+
+---
+
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
