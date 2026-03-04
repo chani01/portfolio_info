@@ -12,6 +12,12 @@
 
 ---
 
+## 📝 개요
+머머링은 텍스트가 아닌 '목소리'를 통해 찰나의 감정을 공유하는 커뮤니티 서비스입니다. 기존 1.5 버전을 전면 재개발하며 사용자 경험을 개선하고 시스템 효율성을 높였습니다.
+
+![서비스 이미지](https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr_info1.png)
+
+---
 
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B0%9C%EC%9A%94)<br>
