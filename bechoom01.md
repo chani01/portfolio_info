@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/Modern%20Android-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"><img src="https://img.shields.io/badge/Clean--Architecture-000000?style=for-the-badge"><img src="https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Data%20%26%20Network-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge"><img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20%26%20Network-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge"><img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/firebase%20App%20Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
