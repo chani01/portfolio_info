@@ -51,7 +51,30 @@
   5. [기여도](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#%EA%B8%B0%EC%97%AC%EB%8F%84)<br>
   6. [ETC](https://github.com/chani01/portfolio_info/blob/main/babyFolio2021.md#etc)
  
- 
+---
+
+## 🚀 주요 구현 기능
+개발 기여도 85%로 핵심 서비스 로직과 수익 모델 전환을 주도했습니다.
+
+### 1. 지능형 미디어 콘텐츠 제작
+* **자동 영상 엔진**: 아기 탄생, 연말 결산, 돌잔치 등 생애 주기별 기념 영상을 자동 생성하는 시스템 구축
+* **AI 이모티콘 '쑥티콘'**: TensorFlow 기반의 이미지 인식 기술을 활용한 개인화 이모티콘 서비스 개발
+
+### 2. 비즈니스 모델(BM) 전환 및 시스템 고도화
+* **수익 구조 개편**: 기존 구독 모델을 종료하고 **인앱 재화 시스템**을 신규 도입하여 유연한 결제 환경 구축
+* **가족 협업 시스템**: 확장되는 가족 형태(가족 구조 변경)에 대응하기 위한 안정적인 데이터 동기화 구현
+
+### 3. 고도화된 개발 문화 도입
+* **CI/CD 자동화**: Bitbucket Pipeline을 구축하여 빌드 및 배포 프로세스 효율화
+* **모니터링**: Datadog을 활용한 실시간 앱 성능 및 오류 모니터링 환경 조성
+
+<p align="center">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_1.jpg" width="32%"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_2.jpg" width="32%"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_3.jpg" width="32%">
+</p>
+
+--- 
 ## 개요
 아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
 
