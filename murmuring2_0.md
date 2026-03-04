@@ -38,6 +38,34 @@
 
 ---
 
+## 🚀 주요 구현 기능
+**개발 기여도 100%**로 음성 서비스의 핵심 메커니즘을 구축했습니다.
+
+### 1. 음성 엔지니어링 및 스트리밍
+* **커스텀 녹음 시스템**: 사용자 친화적인 음성 녹음 UI 및 고효율 인코딩 로직 개발
+* **오디오 플레이어**: 스트리밍 방식의 음성 재생 인터페이스 및 백그라운드 재생 구현
+* **음성 푸시**: 음성 기반 알림 서비스 및 실시간 알림 시스템 연동
+
+### 2. 서비스 아키텍처 및 경제 시스템
+* **전면 재개발**: 머머링 1.5의 레거시 코드를 개선한 2.0 버전 설계 및 구현
+* **인앱 캐시 시스템**: 서비스 내 경제 활동을 위한 가상 재화(캐시) 및 결제 환경 구축
+* **운영 및 배포**: 앱의 전체 생명주기 관리 및 스토어 릴리즈 담당
+
+<p align="center"> 
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr1.jpg" width="24%">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr2.jpg" width="24%">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr3.jpg" width="24%">
+  <img src="https://github.com/chani01/portfolio_info/blob/main/images/murmuring/2.0/mmr4.jpg" width="24%"> 
+</p>
+
+---
+
+## 📊 기여도 및 역할
+* **Development (100%)**: 안드로이드 앱 설계, 개발, 배포 및 음성 처리 로직 전담
+* **Planning (50%)**: 서비스 UI/UX 개선안 제안 및 기능 고도화 기획 참여
+
+---
+
 🗂목차
   1. [개요](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B0%9C%EC%9A%94)<br>
   2. [기술 및 도구](https://github.com/chani01/portfolio_info/blob/main/murmuring2_0.md#%EA%B8%B0%EC%88%A0-%EB%B0%8F-%EB%8F%84%EA%B5%AC)<br>
