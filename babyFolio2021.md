@@ -66,6 +66,13 @@
 <p align="center"><img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_4.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_5.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_6.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_7.jpg" width="33%"> <img src="https://github.com/chani01/portfolio_info/blob/main/images/babyFolio/2021/babyfolio_2021_8.jpg" width="33%"> </p>
 
 --- 
+
+## 📊 기여도 및 역할
+* **Development (85%)**: 안드로이드 메인 개발자로서 아키텍처 설계 및 핵심 기능(영상/AI) 전담
+* **Planning (65%)**: 지표 분석 기반의 신규 기능 기획 및 BM 전환 전략 수립 참여
+
+---
+
 ## 개요
 아이가 받는 모든 사랑을 기억하게,<br>온 가족이 함께하는 우리 아이 성장 기록 플랫폼
 
