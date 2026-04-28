@@ -9,7 +9,7 @@
 3. [기술 스택](#-기술-스택)
 4. [주요 기여](#-주요-기여)
 5. [스크린샷](#-스크린샷)
-6. [기여도 및 역할](#-역할)
+6. [역할](#-역할)
 
 ---
 
@@ -38,8 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-
-
 
 ---
 
