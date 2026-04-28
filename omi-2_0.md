@@ -21,7 +21,14 @@
 ---
 
 ## 🛠 기술 스택
-`Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture` `GraphQL` `Coroutines` `Firebase` `Figma`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-000000?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ---
 
 ## 🚀 주요 기여
