@@ -31,7 +31,15 @@ AI 기반 콘텐츠 자동 생성과 BM 전환을 안드로이드 메인 개발�
 ---
 
 ## 🛠 기술 스택
-`Kotlin` `Java` `MVVM` `Clean Architecture` `TensorFlow` `Coroutines` `Firebase` `Bitbucket Pipeline` `Datadog`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ---
 
 ## 🚀 주요 기여
