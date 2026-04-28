@@ -32,7 +32,14 @@
 ---
 
 ## 🛠 기술 스택
-`Kotlin` `Java` `Jetpack Compose` `Coroutines` `Room` `Realm` `Firebase App Distribution` `Datadog`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=flat&logo=android&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
+![Firebase App Distribution](https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
 ---
 
